@@ -34,7 +34,7 @@ Lion, Mountain Lion, Mavericks, Yosemite, El Capitan, Sierra, High Sierra, Mojav
 >
 > </details>
 
-1. **[Fork](https://github.com/LongQT-sea/macos-iso-builder/fork)** this repository (requires a GitHub account).
+1. **[Fork]** this repository (requires a GitHub account).
 2. Navigate to the **Actions** tab in your forked repository.
 3. Click the green **"I understand my workflows, go ahead and enable them"** button.
 4. Select a workflow from the left sidebar:
@@ -83,6 +83,7 @@ If you're using `dd` on Linux, triple-check your target device. `dd` doesn't ask
 ## Credits
 
 Apple for macOS and their update servers, [Mavericks Forever](https://mavericksforever.com/) for documenting the Mavericks recovery protocol, and the [InsanelyMac community](https://www.insanelymac.com/forum/topic/338810-create-legit-copy-of-macos-from-apple-catalog/) for their research on downloading macOS directly from Apple's catalog.
+2026 DIXIONFAN
 
 ## Legal stuff
 
